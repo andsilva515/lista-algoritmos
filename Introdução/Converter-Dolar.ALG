@@ -1,8 +1,7 @@
-Algoritmo "Converter Dolar"
+Algoritmo "ConverterDolar"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Converter moeda em real para dolar.
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Anderson Silva
 // Data atual  : 22/07/2024
 Var
     reais, dolarEpoca, dolarHoje : Real
