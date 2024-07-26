@@ -1,4 +1,4 @@
-Algoritmo "Calcular Temperatura"
+Algoritmo "CalcularTemperatura"
 
 // Descrição: Nos EUA a temperatura é medida em Fahrenheit diferente do Brasil
 // que é medida em Celsius. Crie um programa que faça a conversão de graus
