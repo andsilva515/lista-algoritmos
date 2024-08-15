@@ -8,3 +8,6 @@ Esta sendo desenvolvido uma lista de exercícios de algoritmos para praticar a l
 * Matrizes
 * Procedimentos
 * Funções
+* Listas
+* Pilhas
+* Árvores
