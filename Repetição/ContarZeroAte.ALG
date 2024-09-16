@@ -1,13 +1,13 @@
 Algoritmo "ContarZeroAteQuantoQuizer"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
-// DescriÁ„o   : Contar de zero atÈ quando o usu·rio quiser.
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
+// Descri√ß√£o   : Contar de zero at√© quanto o usu√°rio quiser.
 // Autor(a)    : Anderson Silva
 // Data atual  : 22/08/2024
 Var
    valor, contador : Inteiro
 Inicio
    contador <- 0
-   Escreva ("Quer contar atÈ quanto ? ")
+   Escreva ("Quer contar at√© quanto ? ")
    Leia (valor)
    Enquanto (contador <= valor) faca
       Escreval(contador)
