@@ -1,4 +1,4 @@
-Algoritmo "ContarZeroAte"
+Algoritmo "ContarZeroAteQuantoQuizer"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Descrição   : Contar de zero até quando o usuário quiser.
 // Autor(a)    : Anderson Silva
