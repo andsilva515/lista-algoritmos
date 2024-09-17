@@ -1,13 +1,13 @@
 Algoritmo "Equacao"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Descrição   : Calcular uma equação
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// DescriÃ§Ã£o   : Calcular uma equaÃ§Ã£o
 // Autor(a)    : Anderson Silva
 // Data atual  : 13/08/2024
 Var
    a, b, c: Inteiro
    x1, x2, delta: Real
 Inicio
-      Escreval ("Equação do Segundo Grau")
+      Escreval ("EquaÃ§Ã£o do Segundo Grau")
       Escreval ("-----------------------")
       Escreva ("Informe  valor de A: ")
       Leia(a)
@@ -21,7 +21,7 @@ Inicio
       Escreval ("Valor de Delta: ", delta:4:2)
       Escreval ("------------------------")
       Se (delta < 0) Entao
-         Escreval ("Para Delta negativo, não existem raizes Reais")
+         Escreval ("Para Delta negativo, nÃ£o existem raizes Reais")
       Senao
         Se (delta = 0) Entao
            x1 := (-b + raizQ(delta)) / (2*a)
