@@ -1,13 +1,14 @@
 Algoritmo "ConversorMoedas"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
-// DescriÁ„o   : Fazer convers„o de moedas 4x
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
+// Descri√ß√£o   : Fazer convers√£o de moedas 4x
 // Autor(a)    : Anderson Silva
 // Data atual  : 17/09/2024
 Var
-    reais, dolarEpoca, dolarHoje, contador : Real
+    reais, dolarEpoca, dolarHoje: Real
+    contador : Inteiro
 Inicio
-      Escreval ("A CotaÁ„o do dolar (U$$) ‡ epoca do curso: U$$ 2,22")
-      Escreval ("A CotaÁ„o do dolar (U$$) hoje: U$$ 5,55")
+      Escreval ("A Cota√ß√£o do dolar (U$$) √† epoca do curso: U$$ 2,22")
+      Escreval ("A Cota√ß√£o do dolar (U$$) hoje: U$$ 5,55")
       Escreval (" ")
 
       contador <- 1
@@ -17,8 +18,8 @@ Inicio
             dolarEpoca <- reais/2.20
             dolarHoje <- reais/5.55
             Escreval (" ")
-            Escreval ("O valor ‡ epoca do curso È U$$ ",dolarEpoca:5:2)
-            Escreval ("O valor hoje convertido È U$$ ",dolarHoje:5:2)
+            Escreval ("O valor √† epoca do curso √© U$$ ",dolarEpoca:5:2)
+            Escreval ("O valor hoje convertido √© U$$ ",dolarHoje:5:2)
             contador <- contador + 1
       FimEnquanto
 Fimalgoritmo
