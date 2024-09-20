@@ -1,6 +1,6 @@
-Algoritmo "ConteAte10"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Descrição   : Algoritmo para realizar a contagem até 10
+Algoritmo "ContarAte10"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// DescriÃ§Ã£o   : Algoritmo para realizar a contagem atÃ© 10
 // Autor(a)    : Anderson Silva
 // Data atual  : 22/08/2024
 Var
