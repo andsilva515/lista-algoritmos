@@ -1,7 +1,7 @@
 Algoritmo "NumerosParesRegressivo"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Descrição   : Algoritmo que mostre os números pares, com contagem regressiva
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// DescriÃ§Ã£o   : Algoritmo que mostre os nÃºmeros pares, com contagem regressiva
+// Autor(a)    : Anderson Silva
 // Data atual  : 20/09/2024
 Var
    Contador, Valor: Inteiro
