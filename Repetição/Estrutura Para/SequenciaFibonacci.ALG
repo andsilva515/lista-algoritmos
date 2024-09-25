@@ -1,6 +1,6 @@
 Algoritmo "SequenciaFibonacci"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz!
 // Autor(a)    : Anderson Silva
 // Data atual  : 25/09/2024
 Var
