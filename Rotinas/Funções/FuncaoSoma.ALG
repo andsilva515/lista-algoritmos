@@ -1,6 +1,6 @@
 Algoritmo "SomarFuncao"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Anderson Silva
 // Data atual  : 24/09/2024
 Var
@@ -15,5 +15,5 @@ Inicio
    Escreva("Digite o segundo valor: ")
    Leia(V2)
    S <- Soma(V1, V2)
-   Escreval("A soma entre", V1, " e", V2, " é igual a",S)
+   Escreval("A soma entre", V1, " e", V2, " Ã© igual a",S)
 Fimalgoritmo
