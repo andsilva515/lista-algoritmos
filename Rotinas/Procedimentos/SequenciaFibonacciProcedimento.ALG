@@ -5,15 +5,21 @@ Algoritmo "SequenciaFibonacciProcedimento"
 // Data atual  : 26/09/2024
 Var
    Contador, Termo1, Termo2, Termo3: Inteiro
+Procedimento ProximoFibonacci(var Numero1, Numero2: Inteiro)
+Var
+   Numero3: Inteiro
+Inicio
+      Numero3 <- Numero1 + Numero2
+      Escreval(Numero3)
+      Numero1 <- Numero2
+      Numero2 <- Numero3
+FimProcedimento
 Inicio
    Termo1 <- 0
    Escreva(Termo1)
    Termo2 <- 1
-   Escreva(Termo2)
-   Para Contador := 3 ate 10 faca
-      Termo3 := Termo1 + Termo2
-      Escreva(Termo3)
-      Termo1 := Termo2
-      Termo2 := Termo3
+   Escreval(Termo2)
+   Para Contador <- 3 ate 10 faca
+      ProximoFibonacci(Termo1, Termo2)
    FimPara
 Fimalgoritmo
